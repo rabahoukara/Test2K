@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>utilisation de script</description>
+   <name>CDT_script</name>
+   <tag>tag_script</tag>
+   <comment></comment>
+   <testCaseGuid>1b8c16f6-0748-4c73-8cb5-f923479af3e3</testCaseGuid>
+</TestCaseEntity>
